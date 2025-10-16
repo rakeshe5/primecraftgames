@@ -1,0 +1,19 @@
+{
+  "name": "com.primecraftgames.pcgtools",
+  "version": "0.1.0-preview.1",
+  "displayName": "PCG Tools",
+  "description": "A set of in-house tools for a structured and easy game development for Primecraft Games",
+  "unity": "2022.3",
+  "keywords": [
+    "unity",
+    "casual",
+    "package",
+    "GGM",
+    "pipeline"
+  ],
+  "author": {
+    "name": "Team Prime",
+    "email": "support@primecraftgames.com",
+    "url": "https://www.primecraftgames.com"
+  }
+}
